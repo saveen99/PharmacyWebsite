@@ -3,7 +3,12 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 
-<p align="center"> <img src=""/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
+<p align="center"> <img src="" width="100px"/> </p>
 
 
 
