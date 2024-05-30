@@ -8,7 +8,6 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 <p align="left" > <img src="assets/img/wow.png" width="100px"/> </p>
 
-<p align="right" > <img src="assets/img/wow.png" width="100px"/> </p>
 
 
 
