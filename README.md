@@ -13,8 +13,6 @@ My Portfolio is a React.js application that serves as an online portfolio to sho
 
 
 
-
-
 <p align="center">*********</p>
 
 
