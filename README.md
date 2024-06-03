@@ -1,7 +1,7 @@
 ### Test Project
 
 
-<p align="left" > <img src="assets/img/test.jpg" width="100px"/> </p>
+<p align="left" > <img src="assets/img/test.jpg" width="1000px"/> </p>
 
 
 
