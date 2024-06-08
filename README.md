@@ -2,7 +2,7 @@
 <p align="left" > <img src="assets/img/test.jpg" width="1000px"/> </p>
 -->
 
-# Test Frontend Project
+# Test Project
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
