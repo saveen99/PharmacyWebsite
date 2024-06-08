@@ -56,4 +56,3 @@ To start the development server, use the following command:
 
 ```bash
 npm start
-
