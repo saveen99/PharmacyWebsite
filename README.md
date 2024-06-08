@@ -3,20 +3,21 @@
 -->
 
 
-# Test Project
+# Test Frontend Project
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)
 
 ## Overview
 
-This project is a sample application designed to demonstrate basic project setup, structure, and functionality. It includes unit tests to ensure the correctness of the implemented features.
+This project is a sample frontend application designed to demonstrate basic project setup, structure, and functionality using modern web development practices.
 
 ## Features
 
-- **Feature 1:** Description of feature 1
-- **Feature 2:** Description of feature 2
-- **Feature 3:** Description of feature 3
+- **Responsive Design:** Adapts to different screen sizes.
+- **Component-Based Architecture:** Uses reusable components.
+- **State Management:** Efficiently manages the state of the application.
 
 ## Getting Started
 
@@ -24,7 +25,7 @@ This project is a sample application designed to demonstrate basic project setup
 
 Before you begin, ensure you have met the following requirements:
 
-- You have installed the latest version of [Python](https://www.python.org/downloads/)
+- You have installed the latest version of [Node.js](https://nodejs.org/)
 - You have a basic understanding of [Git](https://git-scm.com/)
 
 ### Installation
@@ -32,47 +33,25 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/test-project.git
+    git clone https://github.com/yourusername/test-frontend-project.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd test-project
+    cd test-frontend-project
     ```
 
-3. Create a virtual environment:
+3. Install the dependencies:
 
     ```bash
-    python -m venv venv
+    npm install
     ```
 
-4. Activate the virtual environment:
+### Running the Application
 
-    - On Windows:
-
-        ```bash
-        venv\Scripts\activate
-        ```
-
-    - On macOS/Linux:
-
-        ```bash
-        source venv/bin/activate
-        ```
-
-5. Install the required packages:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-To run the application, use the following command:
+To start the development server, use the following command:
 
 ```bash
-python main.py
-
-
+npm start
 
