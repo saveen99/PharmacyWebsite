@@ -78,7 +78,5 @@ To run the application, use the following command:
 python main.py
 
 
----
-
 <p align="center">*********</p>
 
