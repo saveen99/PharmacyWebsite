@@ -27,6 +27,7 @@ This project is a sample frontend application designed to demonstrate basic proj
 
 ## Features
 
+
 - **Responsive Design:** Adapts to different screen sizes.
 - **Component-Based Architecture:** Uses reusable components.
 - **State Management:** Efficiently manages the state of the application.
