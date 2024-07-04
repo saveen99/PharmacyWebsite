@@ -42,6 +42,7 @@ Before you begin, ensure you have met the following requirements:
 - You have installed the latest version of [Node.js](https://nodejs.org/)
 - You have a basic understanding of [Git](https://git-scm.com/)
 
+
 ### Installation
 
 1. Clone the repository:
