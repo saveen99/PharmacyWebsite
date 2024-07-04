@@ -25,6 +25,7 @@
 
 This project is a sample frontend application designed to demonstrate basic project setup, structure, and functionality using modern web development practices.
 
+
 ## Features
 
 
