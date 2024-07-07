@@ -33,6 +33,7 @@ This project is a sample frontend application designed to demonstrate basic proj
 - **Component-Based Architecture:** Uses reusable components.
 - **State Management:** Efficiently manages the state of the application.
 
+
 ## Getting Started
 
 ### Prerequisites
