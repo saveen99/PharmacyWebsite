@@ -36,6 +36,7 @@ This project is a sample frontend application designed to demonstrate basic proj
 
 ## Getting Started
 
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
