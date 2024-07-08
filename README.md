@@ -39,6 +39,7 @@ This project is a sample frontend application designed to demonstrate basic proj
 
 ### Prerequisites
 
+
 Before you begin, ensure you have met the following requirements:
 
 - You have installed the latest version of [Node.js](https://nodejs.org/)
