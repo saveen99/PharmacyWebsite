@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-
+![Example GIF](https://github.com/your-username/your-repository/raw/main/example.gif)
 
 
 
