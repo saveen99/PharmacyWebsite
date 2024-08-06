@@ -1,9 +1,5 @@
 # Getting Started with Create React App
 
-![Example GIF](https://github.com/saveen99/TestProject/blob/main/public/gif.gif)
-
-
-
 
 
 
